@@ -4,7 +4,7 @@
   <title><![CDATA[TGames Blog]]></title>
   <link href="http://tgamesfly.github.io/atom.xml" rel="self"/>
   <link href="http://tgamesfly.github.io/"/>
-  <updated>2013-05-01T15:26:31+08:00</updated>
+  <updated>2013-05-01T21:02:21+08:00</updated>
   <id>http://tgamesfly.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -35,7 +35,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[终于好了]]></title>
+    <title type="html"><![CDATA[Hello World!]]></title>
     <link href="http://tgamesfly.github.io/blog/2013/05/01/zhong-yu-hao-liao/"/>
     <updated>2013-05-01T00:06:00+08:00</updated>
     <id>http://tgamesfly.github.io/blog/2013/05/01/zhong-yu-hao-liao</id>
