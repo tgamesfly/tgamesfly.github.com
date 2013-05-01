@@ -4,7 +4,7 @@
   <title><![CDATA[TGames Blog]]></title>
   <link href="http://tgamesfly.github.io/atom.xml" rel="self"/>
   <link href="http://tgamesfly.github.io/"/>
-  <updated>2013-05-01T10:10:11+08:00</updated>
+  <updated>2013-05-01T14:52:58+08:00</updated>
   <id>http://tgamesfly.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Leap Motion：500元体感，精确到0.01毫米]]></title>
+    <link href="http://tgamesfly.github.io/blog/2013/05/01/leap-motion%3A500yuan-ti-gan-%2Cjing-que-dao-0-dot-01hao-mi/"/>
+    <updated>2013-05-01T14:46:00+08:00</updated>
+    <id>http://tgamesfly.github.io/blog/2013/05/01/leap-motion:500yuan-ti-gan-,jing-que-dao-0-dot-01hao-mi</id>
+    <content type="html"><![CDATA[<p><img src="http://tgamesfly.github.io/images/leapmotion.jpg" alt="Alt text" />
+Leap Motion的体感控制技术能让人通过手指直接控制电脑，系统的感应区间能够精确到0.01毫米，这种精度要远高于微软的Kinect。你现在就可以通过SDK开发它的应用了。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[终于好了]]></title>
