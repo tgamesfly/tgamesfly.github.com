@@ -4,7 +4,7 @@
   <title><![CDATA[TGames Blog]]></title>
   <link href="http://tgamesfly.github.io/atom.xml" rel="self"/>
   <link href="http://tgamesfly.github.io/"/>
-  <updated>2013-05-01T14:52:58+08:00</updated>
+  <updated>2013-05-01T15:08:38+08:00</updated>
   <id>http://tgamesfly.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,8 +18,18 @@
     <link href="http://tgamesfly.github.io/blog/2013/05/01/leap-motion%3A500yuan-ti-gan-%2Cjing-que-dao-0-dot-01hao-mi/"/>
     <updated>2013-05-01T14:46:00+08:00</updated>
     <id>http://tgamesfly.github.io/blog/2013/05/01/leap-motion:500yuan-ti-gan-,jing-que-dao-0-dot-01hao-mi</id>
-    <content type="html"><![CDATA[<p><img src="http://tgamesfly.github.io/images/leapmotion.jpg" alt="Alt text" />
-Leap Motion的体感控制技术能让人通过手指直接控制电脑，系统的感应区间能够精确到0.01毫米，这种精度要远高于微软的Kinect。你现在就可以通过SDK开发它的应用了。</p>
+    <content type="html"><![CDATA[<p><img src="../images/leapmotion.jpg" alt="Alt text" /></p>
+
+<p>Leap Motion的体感控制技术能让人通过手指直接控制电脑，系统的感应区间能够精确到0.01毫米，这种精度要远高于微软的Kinect。你现在就可以通过SDK开发它的应用了。
+<img src="../images/51762a7d6c4a5_middle.jpg" alt="image" /></p>
+
+<p>Airspace应用商店，可以让用户发现、购买、下载支持Leap Motion的应用程序。应用商店本身是完全免费的。在Airspace中的应用，某些是免费的，某些是收费的。随着有越来越多的开发者加入，应用的数量会不断增多。并且Airspace会智能的提示你有新的应用更新。在Airspace中，还有一个叫做“我的应用”的地方，在这里用户可以启动已下载的应用。用户可以轻松找到已经购买和下过的每一个应用。</p>
+
+<p>Leap Motion：现在到底有多火？</p>
+
+<p>已经有包括迪士尼、Autodesk、ZeptoLab、Corel在内的多家公司均已宣称部分旗下软件游戏支持Leap Motion，其中包括赛车游戏《Wreck-It Ralph: Sugar Rush Speedway》、Autodesk的Maya插件及其他应用、切绳子、切水果等。另外流行的事件管理器Clear Mac版同样支持Leap Motion体感动作操控。</p>
+
+<p>近日，新版的Google Earth应用（Windows、Mac、Linux）添加了对Leap Motion手势控制技术的支持，允许用户用一只手玩转整个地球。</p>
 ]]></content>
   </entry>
   
